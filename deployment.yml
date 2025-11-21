@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: stateless-container
-          image: ip-app
+          image: harshajain/ip-app
           ports:
             - containerPort: 80
